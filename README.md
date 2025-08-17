@@ -1,1 +1,1 @@
-# cafe-menu-using-html-css
+CafeMenu is a basic cafe menu webpage built using only HTML and CSS
